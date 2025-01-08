@@ -122,5 +122,5 @@ Hi! I'm **Bruno Sousa**, a dedicated **Software Engineer** and **Content Creator
 ## 🌐 Connect With Me  
 - **Email**: brunosousa.software@gmail.com  
 - **YouTube**: [Code & Chaos](https://www.youtube.com/@CodeYyChaos)  
-- **GitHub**: [Your GitHub Profile Link](https://github.com/CodeAndChaosDev/CodeAndChaosDe)  
-- **LinkedIn**: [Your LinkedIn Profile Link](https://www.linkedin.com/in/dev-bruno-sousa/)  
+- **GitHub**: [Code & Chaos](https://github.com/CodeAndChaosDev/CodeAndChaosDe)  
+- **LinkedIn**: [Bruno Sousa](https://www.linkedin.com/in/dev-bruno-sousa/)  
