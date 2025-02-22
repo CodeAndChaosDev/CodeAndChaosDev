@@ -1,7 +1,7 @@
 # 👋 Welcome to **Code & Chaos**
 
 ## 🧑‍💻 About Me  
-Hi! I'm **Bruno Sousa**, a dedicated **Software Engineer** and **Content Creator** focused on mastering my specialized tech stack. My expertise lies in developing scalable applications, integrating cutting-edge AI, and sharing knowledge through **YouTube tutorials**.  
+Hi! I'm **Bruno Sousa**, used to be a dedicated **Softwaare Developer** But AI Won the battle against me. So Now I strive for success in the realms of Cybersecurity.  
 
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
@@ -101,6 +101,9 @@ Hi! I'm **Bruno Sousa**, a dedicated **Software Engineer** and **Content Creator
 
 ### **Workflow Automation**  
 - **Platforms**: Zapier, Make (Integromat)  
+
+---
+## 📓 CyberSecurity 
 
 ---
 
