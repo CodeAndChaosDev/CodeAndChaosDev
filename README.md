@@ -115,15 +115,15 @@
 ---
 
 ## 📂 Featured Repositories  
-1. [**Secure Password Generator**](https://github.com/yourusername/password-generator): A Django REST API for generating secure passwords.  
-2. [**Automated Vulnerability Scanner**](https://github.com/yourusername/vulnerability-scanner): Flask-based API for automating vulnerability scans.  
-3. [**AI-Powered Chatbot**](https://github.com/yourusername/ai-chatbot): Chatbot leveraging OpenAI GPT and LangChain.  
-4. [**React Native SaaS App**](https://github.com/yourusername/react-native-saas): A SaaS mobile app built with React Native.  
+1. [**Secure Password Generator**](https://github.com/yourusername/password-generator): To Test
 
 ---
 
 ## 🌐 Connect With Me  
-- **Email**: brunosousa.software@gmail.com  
+- **Email**: codeandchaosdev@gmail.com 
 - **YouTube**: [Code & Chaos](https://www.youtube.com/@CodeYyChaos)  
 - **GitHub**: [Code & Chaos](https://github.com/CodeAndChaosDev/CodeAndChaosDe)  
-- **LinkedIn**: [Bruno Sousa](https://www.linkedin.com/in/dev-bruno-sousa/)  
+- **X**: [Code & Chaos](https://x.com/CodeAndChaosDev)
+- **Instagram**: [Code & Chaos](https://www.instagram.com/codeandchaosdev/?hl=en)
+- **TikTok**: [Code & Chaos](tiktok.com/@codeandchaos)
+- **DailyDev**:[Code & Chaos]()
