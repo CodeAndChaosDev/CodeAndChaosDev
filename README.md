@@ -1,12 +1,12 @@
 # 👋 Welcome to **Code & Chaos**
+  Hi! This is the Oficial Code And Chaos Repo. Enjoy!
 
-## 🧑‍💻 About Me  
-Hi! I'm **Bruno Sousa**, used to be a dedicated **Softwaare Developer** But AI Won the battle against me. So Now I strive for success in the realms of Cybersecurity.  
-
+## 🧑‍💻 About The Person  
+  After depressing and completely fail at web development, I decided to strive for Cybersecurity. After Master This one I hope to build a good career at it. Thats it!
+  
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
-- **Software Development**: Full-stack applications using React Native, Next.js, and NestJS  
-- **DevOps & Cloud**: Docker, Kubernetes, AWS  
+- **CyberSecurity**: Hybrid (Soc Analyst + Pentesting)
 - **YouTube Content Creation**: Tutorials, tech reviews, and workflow automation  
 
 🎥 **YouTube Channel**: [Code & Chaos](https://www.youtube.com/@CodeYyChaos)  
