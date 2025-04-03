@@ -2,12 +2,12 @@
   Hi! This is the Oficial Code And Chaos Repo. Enjoy!
 
 ## 🧑‍💻 About The Person  
-  After depressing and completely fail at web development, I decided to strive for Cybersecurity. After Master This one I hope to build a good career at it. Thats it!
+  Started to enjoy coding every day. Now im addicted to it. Even if AI replace Coders Ill be here.
   
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
-- **CyberSecurity**: Hybrid (Soc Analyst + Pentesting)
-- **YouTube Content Creation**: Tutorials, tech reviews, and workflow automation  
+- **Back End Development**: Java Spring
+- **YouTube Content Creation**: Java and Java Spring Videos
 
 🎥 **YouTube Channel**: [Code & Chaos](https://www.youtube.com/@CodeYyChaos)  
 
