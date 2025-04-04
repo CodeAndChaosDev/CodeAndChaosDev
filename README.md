@@ -8,7 +8,7 @@
 🌱 **Currently Specializing In**:  
 - **Back End Development**: Java Spring
 - **Cybersecurity**: Hybrid (SOC Analyst + Pentesting) I pretend to specialize in this area
-- **YouTube Content Creation**: Java and Java Spring Videos
+- **YouTube Content Creation**: My road to became a cybersecurity expert.
 
 🎥 **YouTube Channel**: [Code & Chaos](https://www.youtube.com/@CodeYyChaos)  
 
