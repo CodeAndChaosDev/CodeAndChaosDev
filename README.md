@@ -7,6 +7,7 @@
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
 - **Back End Development**: Java Spring
+- **Cybersecurity**: Hybrid (SOC Analyst + Pentesting) I pretend to specialize in this area
 - **YouTube Content Creation**: Java and Java Spring Videos
 
 🎥 **YouTube Channel**: [Code & Chaos](https://www.youtube.com/@CodeYyChaos)  
