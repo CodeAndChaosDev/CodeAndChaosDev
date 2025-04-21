@@ -2,7 +2,7 @@
   Hi! This is the Oficial Code And Chaos Repo. Enjoy!
 
 ## 🧑‍💻 About The Person  
-  Started to enjoy coding every day. Now im addicted to it. Even if AI replace Coders Ill be here.
+  Too Lazy to Work hard while i was on back end development, now i regret it... Working a factory job made me realise i want something better for my life. Now, im grinding cybersecurity with hopes to find my future there.
   
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
