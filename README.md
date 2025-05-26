@@ -6,7 +6,7 @@
   
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
-- **Back End Development**: Java Spring
+- **Back End Development**: Python Django V Flask | PostgreSQL | NodeJS | MongoDB | Typescript
 - **Cybersecurity**: Hybrid (SOC Analyst + Pentesting) I pretend to specialize in this area
 - **YouTube Content Creation**: My road to became a cybersecurity expert.
 
