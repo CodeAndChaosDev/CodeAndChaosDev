@@ -2,7 +2,7 @@
   Hi! This is the Oficial Code And Chaos Repo. Enjoy!
 
 ## 🧑‍💻 About The Person  
-  Too Lazy to Work hard while i was on back end development, now i regret it... Working a factory job made me realise i want something better for my life. Now, im grinding cybersecurity with hopes to find my future there.
+  Im a computer engineering gradute looking to do his master's degree. Currently work as a Remote Support Specialist at CDS-HPE. 
   
 🎓 **Education**: Bachelor's degree in Software Engineering  
 🌱 **Currently Specializing In**:  
